@@ -9,15 +9,15 @@
 }
 
 .header::-webkit-scrollbar {
-  width: 8px; /* Set the scrollbar width */
+  width: 8px; 
 }
 
 .header::-webkit-scrollbar-thumb {
-  background: var(--scrollbar-thumb); /* Customize the scrollbar thumb color */
+  background: var(--scrollbar-thumb); 
 }
 
 .header::-webkit-scrollbar-track {
-  background: var(--scrollbar-track); /* Customize the scrollbar track color */
+  background: var(--scrollbar-track); 
 }
 
 .header p {
